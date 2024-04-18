@@ -16,4 +16,4 @@ To run the backend server locally, use the following command:
 ```bash
 npm start
 ```
-This will start the server and it will be accessible at http://localhost:5000.
+This will start the server and it will be accessible at http://localhost:3001.
